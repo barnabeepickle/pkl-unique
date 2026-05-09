@@ -7,8 +7,26 @@
       {
         "when": "Clover Scythe",
         "model": {
-          "type": "minecraft:model",
-          "model": "flashback:item/clover_scythe_diamond"
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "flashback:item/clover_scythe_diamond"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "flashback:item/clover_scythe_diamond_in_hand"
+          }
         }
       }
     ],
