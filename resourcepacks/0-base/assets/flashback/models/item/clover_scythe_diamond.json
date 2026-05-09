@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "flashback:item/clover_scythe_diamond"
+  }
+}
