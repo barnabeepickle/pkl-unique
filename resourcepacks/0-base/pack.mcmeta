@@ -1,6 +1,7 @@
 {
   "pack": {
-    "description": "Template Pack",
-    "supported_formats": 0
+    "description": "Unique custom item models and textures",
+    "min_format": 75,
+    "max_format": 75
   }
 }
