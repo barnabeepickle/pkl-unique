@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:item/demon_horns",
-		"particle": "minecraft:item/demon_horns"
+		"0": "flashback:item/demon_horns",
+		"particle": "flashback:item/demon_horns"
 	},
 	"elements": [
 		{
