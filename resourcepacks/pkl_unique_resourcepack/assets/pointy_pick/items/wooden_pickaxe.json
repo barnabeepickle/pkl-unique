@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "pointy_pick:item/wooden_pickaxe"
+  }
+}
