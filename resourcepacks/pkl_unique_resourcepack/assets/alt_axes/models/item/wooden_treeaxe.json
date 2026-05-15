@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "alt_axes:item/wooden_treeaxe"
+  }
+}
