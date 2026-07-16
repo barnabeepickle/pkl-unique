@@ -3,5 +3,17 @@
 	"textures": {
 		"layer0": "flashback:item/emberblade",
 		"layer1": "flashback:item/emberblade_layer"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 55],
+			"translation": [0, 6, 0],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -55],
+			"translation": [0, 6, 0],
+			"scale": [1.7, 1.7, 0.85]
+		}
 	}
 }
