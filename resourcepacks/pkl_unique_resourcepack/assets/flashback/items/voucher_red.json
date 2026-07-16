@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "flashback:voucher_red"
+    "model": "flashback:item/voucher_red"
   }
 }
