@@ -2,5 +2,40 @@
   "model": {
     "type": "minecraft:model",
     "model": "flashback:item/demon_horns"
+  },
+  "display": {
+    "thirdperson_righthand": {
+			"rotation": [50, 0, 0],
+			"translation": [1.75, -4.75, 6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [50, 0, 0],
+			"translation": [-6.25, -4.75, 6]
+		},
+		"firstperson_righthand": {
+			"rotation": [50, 0, 0],
+			"translation": [5.5, -3.5, 6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [50, 0, 0],
+			"translation": [-3, -3.5, 6]
+		},
+		"ground": {
+			"translation": [4, 0, 8.25]
+		},
+		"gui": {
+			"rotation": [-6, 130, 14],
+			"translation": [7.75, 2, 0],
+			"scale": [2, 2, 2]
+		},
+    "fixed": {
+			"translation": [8, 3, 15.25],
+			"scale": [2, 2, 2]
+		},
+		"on_shelf": {
+			"rotation": [0, 180, 0],
+			"translation": [-7.5, 0, -18],
+			"scale": [2, 2, 2]
+		}
   }
 }
