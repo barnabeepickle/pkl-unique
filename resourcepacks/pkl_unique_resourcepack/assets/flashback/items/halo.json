@@ -4,22 +4,16 @@
     "property": "minecraft:display_context",
     "cases": [
       {
-        "when": [
-          "gui",
-          "firstperson_righthand",
-          "firstperson_lefthand",
-          "thirdperson_righthand",
-          "thirdperson_lefthand"
-        ],
+        "when": "head",
         "model": {
           "type": "minecraft:model",
-          "model": "flashback:item/halo_inv"
+          "model": "flashback:item/halo"
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "flashback:item/halo"
+      "model": "flashback:item/halo_inv"
     }
   }
 }
