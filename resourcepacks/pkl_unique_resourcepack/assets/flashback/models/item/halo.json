@@ -1,0 +1,48 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by barnabeepickle with Blockbench",
+	"parent": "flashback:item/template/head",
+	"textures": {
+		"0": "flashback:item/halo",
+		"particle": "flashback:item/halo"
+	},
+	"elements": [
+		{
+			"name": "halo_2",
+			"from": [1, 9, 2],
+			"to": [7, 10, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 9, 2]},
+			"faces": {
+				"north": {"uv": [2, 0, 8, 1], "texture": "#0"},
+				"east": {"uv": [8, 3, 9, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2, 9, 8, 10], "texture": "#0"},
+				"west": {"uv": [1, 3, 2, 7], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [8, 7, 2, 3], "texture": "#0"},
+				"down": {"uv": [16, 3, 10, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "halo_1",
+			"from": [2, 9, 1],
+			"to": [6, 10, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 9, 1]},
+			"faces": {
+				"north": {"uv": [3, 1, 7, 2], "texture": "#0"},
+				"east": {"uv": [9, 2, 10, 8], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [3, 8, 7, 9], "texture": "#0"},
+				"west": {"uv": [0, 2, 1, 8], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7, 8, 3, 2], "texture": "#0"},
+				"down": {"uv": [15, 2, 11, 8], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "halo",
+			"origin": [1, 9, 2],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
