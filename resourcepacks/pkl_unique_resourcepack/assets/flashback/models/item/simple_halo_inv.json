@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "flashback:item/halo_inv"
+    "layer0": "flashback:item/simple_halo_inv"
   }
 }

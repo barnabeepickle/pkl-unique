@@ -7,13 +7,13 @@
         "when": "head",
         "model": {
           "type": "minecraft:model",
-          "model": "flashback:item/halo"
+          "model": "flashback:item/simple_halo"
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "flashback:item/halo_inv"
+      "model": "flashback:item/simple_halo_inv"
     }
   }
 }

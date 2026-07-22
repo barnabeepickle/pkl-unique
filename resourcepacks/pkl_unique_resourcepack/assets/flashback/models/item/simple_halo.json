@@ -3,8 +3,8 @@
 	"credit": "Made by barnabeepickle with Blockbench",
 	"parent": "flashback:item/template/head",
 	"textures": {
-		"0": "flashback:item/halo",
-		"particle": "flashback:item/halo"
+		"0": "flashback:item/simple_halo",
+		"particle": "flashback:item/simple_halo"
 	},
 	"elements": [
 		{
