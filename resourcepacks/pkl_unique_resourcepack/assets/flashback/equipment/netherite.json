@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "flashback:netherite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "flashback:netherite"
+      }
+    ]
+  }
+}
