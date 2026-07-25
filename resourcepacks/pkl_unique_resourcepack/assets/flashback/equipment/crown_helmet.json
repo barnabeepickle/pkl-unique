@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "flashback:crown_helmet"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:gold"
+      }
+    ]
+  }
+}

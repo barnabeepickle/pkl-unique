@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "flashback:gilded"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "flashback:invis"
+      }
+    ]
+  }
+}
