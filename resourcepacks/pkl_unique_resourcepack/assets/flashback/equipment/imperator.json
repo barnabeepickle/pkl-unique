@@ -2,12 +2,12 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "flashback:netherite"
+        "texture": "flashback:imperator"
       }
     ],
     "humanoid_leggings": [
       {
-        "texture": "flashback:netherite"
+        "texture": "flashback:imperator"
       }
     ]
   }
